@@ -5,7 +5,7 @@
 
 <!-- Animated typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Building+at+the+intersection+of+health+data+%26+software;Regression+and+Classification+%7C+Clinical+Trial+Analytics+%7C+Python%2C+SQL%2C+R+Studio;Clinical+trial+analytics+%7C+ClinicalTrials.gov+API;Targeting+Genetics%2C+Genomics+%26+Bioinformatics+grad+research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Building+at+the+intersection+of+health+data+%26+software;Regression+and+Classification+%7C+Clinical+Trial+Analytics+%7C+Python%2C+SQL%2C+R+Studio; alt="Typing SVG" />
 </a>
 
 <br/>
