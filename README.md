@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Nicholas%20A.%20Ventura&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Health%20Data%20Analyst%20%E2%80%A2%20Aspiring%20Computational%20Biologist&descAlignY=60&descSize=16&descColor=a8dadc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e0e0e0,ffe184,100:0f3460&height=200&section=header&text=Nicholas%20A.%20Ventura&fontSize=48&fontColor=406d9c&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Health%20Data%20Analyst%20%E2%80%A2%20Aspiring%20Computational%20Biologist&descAlignY=60&descSize=16&descColor=cf850c" width="100%" alt="Nicholas A. Ventura - Life Sciences Consultant, Data Analyst"/>
 
 <!-- Animated typing -->
 <a href="https://git.io/typing-svg">
@@ -24,8 +24,8 @@
 ventura = {
     "name"       : "Nicholas A. Ventura",
     "location"   : "United States 🇺🇸",
-    "background" : ["Health Technology Assessment", "Clinical Data Analytics",
-                    "Software Engineering"],
+    "background" : ["Life Sciences Consulting", "Bachelor of Science in Cell, Molecular and Developmental Biology",
+                    "Master of Business and Science in Biotechnology Management"],
     "goal"       : "Graduate research in Genetics, Genomics & Bioinformatics",
     "interests"  : ["Comparative Genomics", "Human Genetics",
                     "Quantitative Genetics", "AI & Data Science"],
@@ -34,7 +34,7 @@ ventura = {
 }
 ```
 
-I am a Health Technology Assessment (HTA) advisor with a growing software engineering practice. My current work sits at the intersection of **clinical evidence synthesis** and **data tooling** — building dashboards and pipelines that surface trial landscape intelligence for research and regulatory decision-making. I am targeting graduate programs in **Genetics, Genomics & Bioinformatics (GGB)** to extend this work into the computational biology domain.
+My current work sits at the intersection of **Python application development** and **data tooling** — building dashboards and pipelines that surface intelligence for research and ML investigations. I am targeting graduate programs in **Genetics, Genomics & Bioinformatics (GGB)** to extend this work into the computational biology domain.
 
 ---
 
@@ -118,20 +118,22 @@ response = requests.get("https://clinicaltrials.gov/api/v2/studies", params=para
 ## 🧬 Learning Roadmap
 
 ```
-2024 ──── IBM Software Engineering Certificate ················· ✅ Complete
-           └─ Java OOP, Collections, File I/O, Date/Time API
-
-2025 ──── Clinical Trial Analytics Platform ·················· 🔄 Active Sprint
+2024 ──── Clinical Research Analysis Tool.....................🔄 Active Sprint
+           └─ Python, Streamlit, REST APIs, LLM integration
+          Multiple Regression/Commercial Forecasting Tool.....🔄 Active Sprint
+           └─ Python, Streamlit, REST APIs, LLM integration
+2025 ──── Clinical Trial Analytics Platform ··················🔄 Active Sprint
            └─ Python, Streamlit, REST APIs, LLM integration
 
-         ── Strengthening CS Foundations ······················ 🔄 Active
-           └─ Algorithms & data structures, version control patterns
+          Intro to Software Engineering (IBM & Coursera)······✅ Complete
+           └─ Java OOP, Collections, File I/O, Date/Time API
 
-2026 ──── Graduate Program (GGB) ······························ 🎯 Target
+2026 ──── Graduate Program (GGB) ······························🎯 Target
            └─ Comparative Genomics · Human Genetics
               Quantitative Genetics · AI & Data Science
 
-         ── Bioinformatics Tooling ···························· 🔜 Next
+
+         ── Bioinformatics Tooling ····························🔜 Next
            └─ Biopython, R/Bioconductor, GATK pipelines,
               FASTQ/BAM/VCF processing, genomic data structures
 ```
@@ -142,7 +144,6 @@ response = requests.get("https://clinicaltrials.gov/api/v2/studies", params=para
 
 <div align="center">
 
-I am actively building toward graduate research in computational biology. If you are working on problems at the intersection of **genomics, health data, and software** — I'd like to hear from you.
 
 [![Email](https://img.shields.io/badge/nicholasaventura%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholasaventura@hotmail.com)
 
@@ -155,6 +156,6 @@ I am actively building toward graduate research in computational biology. If you
 <!-- Wave footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
 
-*"The goal of bioinformatics is to understand the living world at a molecular level using computer science."*
+*"[Enter themed quote here]"*
 
 </div>
