@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e0e0e0,ffe184,100:0f3460&height=200&section=header&text=Nicholas%20A.%20Ventura&fontSize=48&fontColor=406d9c&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Health%20Data%20Analyst%20%E2%80%A2%20Aspiring%20Computational%20Biologist&descAlignY=60&descSize=16&descColor=cf850c" width="100%" alt="Nicholas A. Ventura - Life Sciences Consultant, Data Analyst"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e0e0e0,ffe184,100:0f3460&height=200&section=header&text=Nicholas%20A.%20Ventura&fontSize=48&fontColor=406d9c&animation=fadeIn&fontAlignY=38&desc=Lean%20Six%20Sigma%20Black%20Belt%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Aspiring%20Professional&descAlignY=60&descSize=16&descColor=cf850c" width="100%" alt="Nicholas A. Ventura - Life Sciences Consultant, Data Analyst"/>
 
 <!-- Animated typing -->
 <a href="https://git.io/typing-svg">
@@ -29,8 +29,7 @@ ventura = {
     "goal"       : "Graduate research in Genetics, Genomics & Bioinformatics",
     "interests"  : ["Comparative Genomics", "Human Genetics",
                     "Quantitative Genetics", "AI & Data Science"],
-    "currently"  : "Building CS foundations for computational biology research",
-    "fun_fact"   : "I query ClinicalTrials.gov so you don't have to 🧬"
+    "currently"  : "Building CS foundations for computational biology research"
 }
 ```
 
