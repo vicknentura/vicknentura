@@ -43,19 +43,33 @@ My current work sits at the intersection of **Python application development** a
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=java,python,r&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-406d9c?style=for-the-badge&logo=postgresql&logoColor=white)
+![R Studio](https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-cf850c?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Tools & Frameworks**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=github,gcp,latex,tensorflow,discord,notion&theme=dark)](https://skillicons.dev)
 
-**Data & APIs**
+**Visualizations**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-406d9c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
+![Bokeh](https://img.shields.io/badge/Bokeh-cf850c?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**APIs**
+
+![Google API](https://img.shields.io/badge/Google_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AACT](https://img.shields.io/badge/AACT_ClinicalTrials-406d9c?style=for-the-badge&logoColor=white)
+![NCBI](https://img.shields.io/badge/NCBI_Entrez-338DC1?style=for-the-badge&logoColor=white)
 
 **Domain**
 
