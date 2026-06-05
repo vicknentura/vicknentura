@@ -83,12 +83,6 @@ My current work sits at the intersection of **Python application development** a
 
 ## 🔬 Featured Projects
 
-<div align="center">
-
-[![IBM Cert Card](https://github-readme-stats.vercel.app/api/pin/?username=vicknentura&repo=IBM-Software-Engineering-Certification&theme=midnight-purple&border_color=e94560&title_color=e94560&icon_color=a8dadc&text_color=ffffff)](https://github.com/vicknentura/IBM-Software-Engineering-Certification)
-
-</div>
-
 ### 📊 Clinical Trial Landscape Dashboard *(private — active sprint)*
 > Interactive Streamlit dashboard consuming the ClinicalTrials.gov v2 API and NIH MeSH ontology. Multi-filter search (status, phase, intervention type, agency class, date range), Plotly visualizations, LLM-assisted query refinement, and CSV/PDF export.
 
