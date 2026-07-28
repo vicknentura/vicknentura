@@ -132,7 +132,7 @@ response = requests.get("https://clinicaltrials.gov/api/v/studies", params=param
           Intro to Software Engineering (IBM & Coursera)······✅ Complete
            └─ Java OOP, Collections, File I/O, Date/Time API
 
-202X ──── Graduate Program (GGB) ······························🎯 Target Program
+202X ──── Graduate Program ······························🎯 Target Program
 ```
 
 ---
@@ -144,8 +144,7 @@ response = requests.get("https://clinicaltrials.gov/api/v/studies", params=param
 <div align="center">
 
 <!-- Wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
-
-*"At this point, further progress is possible only if mutual agreement can be reached - Carl G. Jung"*
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=150&section=footer&text=At%20this%20point,%20further%20progress%20is%20possible%20only%20if%20mutual%agreement%20can%20be%20reached.%20-%20Carl%20Jung&fontSize=16&fontColor=ffffff&fontAlignY=80" width="100%"/>
 
 </div>
