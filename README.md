@@ -27,13 +27,10 @@ ventura = {
     "background" : ["Life Sciences Consulting", "Bachelor of Science in Cell, Molecular and Developmental Biology",
                     "Master of Business and Science in Biotechnology Management"],
     "goal"       : "Graduate research in Genetics, Genomics & Bioinformatics",
-    "interests"  : ["Comparative Genomics", "Human Genetics",
-                    "Quantitative Genetics", "AI & Data Science"],
-    "currently"  : "Building CS foundations for computational biology research"
+    "interests"  : ["Applications of Biology x Data x Statistics"],
+    "currently"  : "Studying..."
 }
 ```
-
-My current work sits at the intersection of **Python application development** and **data tooling** — building dashboards and pipelines that surface intelligence for research and ML investigations. I am targeting graduate programs in **Genetics, Genomics & Bioinformatics (GGB)** to extend this work into the computational biology domain.
 
 ---
 
@@ -83,8 +80,8 @@ My current work sits at the intersection of **Python application development** a
 
 ## 🔬 Featured Projects
 
-### 📊 Clinical Trial Landscape Dashboard *(private — active sprint)*
-> Interactive Streamlit dashboard consuming the ClinicalTrials.gov v2 API and NIH MeSH ontology. Multi-filter search (status, phase, intervention type, agency class, date range), Plotly visualizations, LLM-assisted query refinement, and CSV/PDF export.
+### 📊 Ventura & Associates HTA Advisors, LLC | Tech-enabled Solutions
+> Portfolio of six web applications using AI engineering tailored for the Life Science Industry & Community
 
 ```python
 # Pull studies from ClinicalTrials.gov v2 API with field-level selection
@@ -135,14 +132,7 @@ response = requests.get("https://clinicaltrials.gov/api/v2/studies", params=para
           Intro to Software Engineering (IBM & Coursera)······✅ Complete
            └─ Java OOP, Collections, File I/O, Date/Time API
 
-2026 ──── Graduate Program (GGB) ······························🎯 Target
-           └─ Comparative Genomics · Human Genetics
-              Quantitative Genetics · AI & Data Science
-
-
-         ── Bioinformatics Tooling ····························🔜 Next
-           └─ Biopython, R/Bioconductor, GATK pipelines,
-              FASTQ/BAM/VCF processing, genomic data structures
+202X ──── Graduate Program (GGB) ······························🎯 Target Program
 ```
 
 ---
