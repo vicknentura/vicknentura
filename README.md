@@ -137,13 +137,6 @@ response = requests.get("https://clinicaltrials.gov/api/v/studies", params=param
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-
-[![Email](https://img.shields.io/badge/nicholasaventura%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholasaventura@hotmail.com)
-
 </div>
 
 ---
@@ -153,6 +146,6 @@ response = requests.get("https://clinicaltrials.gov/api/v/studies", params=param
 <!-- Wave footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
 
-*"[Quote from this month's read]"*
+*"At this point, further progress is possible only if mutual agreement can be reached - Carl G. Jung"*
 
 </div>
