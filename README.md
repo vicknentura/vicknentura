@@ -145,6 +145,10 @@ response = requests.get("https://clinicaltrials.gov/api/v/studies", params=param
 
 <!-- Wave footer -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=150&section=footer&text=At%20this%20point,%20further%20progress%20is%20possible%20only%20if%20mutual%20agreement%20can%20be%20reached.%20-%20Carl%20Jung&fontSize=16&fontColor=ffffff&fontAlignY=80" width="100%"/>
-
+  <br />
+  <p><em>"At this point, further progress is possible only if mutual agreement can be reached."</em><br />
+  — <strong>Carl G. Jung</strong></p>
+  
+  <!-- Wave footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
 </div>
