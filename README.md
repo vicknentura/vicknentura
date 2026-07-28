@@ -153,6 +153,6 @@ response = requests.get("https://clinicaltrials.gov/api/v/studies", params=param
 <!-- Wave footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
 
-*"[Enter themed quote here]"*
+*"[Quote from this month's read]"*
 
 </div>
