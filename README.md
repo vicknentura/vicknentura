@@ -84,17 +84,17 @@ ventura = {
 > Portfolio of six web applications using AI engineering tailored for the Life Science Industry & Community
 
 ```python
-# Pull studies from ClinicalTrials.gov v2 API with field-level selection
+# Pull from API with field-level selection
 params = {
     "fields": (
-        "protocolSection.identificationModule.nctId,"
-        "protocolSection.statusModule.overallStatus,"
-        "protocolSection.designModule.phases,"
-        "protocolSection.identificationModule.organization.class,"
-        "protocolSection.contactsLocationsModule.locations.country"
+        "protocol.identificationModule.nctId,"
+        "protocol.statusModule.Status,"
+        "protocol.designModule.phases,"
+        "protocol.identificationModule.organization,"
+        "protocol.contactsLocationsModule.locations"
     )
 }
-response = requests.get("https://clinicaltrials.gov/api/v2/studies", params=params)
+response = requests.get("https://clinicaltrials.gov/api/v/studies", params=params)
 ```
 
 **Stack:** Python · Streamlit · Pandas · Plotly · OpenAI API · ClinicalTrials.gov API · NIH MeSH XML
