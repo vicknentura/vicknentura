@@ -23,12 +23,12 @@
 ```python
 ventura = {
     "name"       : "Nicholas A. Ventura",
-    "location"   : "United States 🇺🇸",
+    "location"   : "United States-🇺🇸",
     "background" : ["Life Sciences Consulting", "Bachelor of Science in Cell, Molecular and Developmental Biology",
                     "Master of Business and Science in Biotechnology Management"],
     "goal"       : "Graduate research in Genetics, Genomics & Bioinformatics",
     "interests"  : ["Applications of Biology x Data x Statistics"],
-    "currently"  : "Studying..."
+    "currently"  : "Plaintiff Pro Se, Managing Ventura & Associates HTA Advisors, LLC, studying Biology, volunteer guest teaching, and... DoorDash-ing."
 }
 ```
 
@@ -122,11 +122,11 @@ response = requests.get("https://clinicaltrials.gov/api/v/studies", params=param
 ## 🧬 Learning Roadmap
 
 ```
-2024 ──── Clinical Research Analysis Tool.....................🔄 Active Sprint
+2024 ──── Clinical Research Analysis Tool.....................✅🔄 In DMADV; Protoype Complete
            └─ Python, Streamlit, REST APIs, LLM integration
-          Multiple Regression/Commercial Forecasting Tool.....🔄 Active Sprint
+          Multiple Regression/Commercial Forecasting Tool.....✅🔄 In DMADV; Protoype Complete
            └─ Python, Streamlit, REST APIs, LLM integration
-2025 ──── Clinical Trial Analytics Platform ··················🔄 Active Sprint
+2025 ──── Clinical Trial Analytics Platform ··················✅🔄 In DMADV; Protoype Complete
            └─ Python, Streamlit, REST APIs, LLM integration
 
           Intro to Software Engineering (IBM & Coursera)······✅ Complete
